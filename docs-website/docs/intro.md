@@ -1,7 +1,14 @@
 ---
 sidebar_position: 1
 ---
-
+## Due dates
+Identify all hardware & find datasheets- 9/25
+Document all hadrware- 10/3
+Mach 3 Docs- 10/10
+References to F360 & Mach 3 Docs, Machining basics, etc.- 10/15
+Demo workflow- 10/24
+Troubleshooting + misc.- 10/31
+Publishing + misc.- 11/7
 # Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
